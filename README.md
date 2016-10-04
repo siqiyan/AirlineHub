@@ -3,9 +3,9 @@
 This project is for my university course.
 
 Given a number of cities with different pairwise distances (represented by
-an adjacent graph), this program
+an adjacent matrix), this program
 constructs a graph of airline route which connects all cities and tries to
-minimize the number of "hub city" (the vertex with more than two edges).
+minimize the number of "hub city" (the vertex with more than one edges).
 
 The algorithms are modified from Kruskal's algorithm for minimal-spanning-tree,
 however, in this case, it tries to minimize the number of hubs rather than the
