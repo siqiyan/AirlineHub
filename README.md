@@ -1,6 +1,6 @@
 ## Introduction
 
-This project is for my university course.
+This is a group project for my university course.
 
 Given a number of cities with different pairwise distances (represented by
 an adjacent matrix), this program
